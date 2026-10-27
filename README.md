@@ -6,6 +6,10 @@ This collection connects the work that is usually split across separate tools:
 
 `market discovery -> customer evidence -> design/IP risk -> product validation -> supplier and unit-economics decisions`
 
+## Contact / 联系方式
+
+For Skill customization, changes, or usage questions / 如需调整修改 Skill 或咨询使用方式，可添加地球号：`benliu2021`。
+
 ## Skills
 
 | Skill | Use it for | Install |
